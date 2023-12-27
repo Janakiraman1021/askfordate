@@ -16,5 +16,8 @@ function nextPage() {
   }
 
 function reDirect(){
-    // pass
+  let url =
+  "https://wa.me/919790459692?" ;
+
+window.open(url, "_black").focus();
 }
