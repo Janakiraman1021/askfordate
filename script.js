@@ -17,7 +17,7 @@ function nextPage() {
 
 function reDirect(){
   let url =
-  "https://wa.me/919790459692?" ;
+  "https://wa.me/917604913189?" ;
 
 window.open(url, "_black").focus();
 }
