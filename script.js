@@ -16,5 +16,5 @@ function nextPage() {
   }
 
 function reDirect(){
-    window.open("https://mail.google.com/", '_blank');
+    // pass
 }
